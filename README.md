@@ -9,7 +9,7 @@ I'm an operations lead who builds the software I need. I turn messy operational 
 | Project | What it is | Stack |
 |---|---|---|
 | **[Forge](https://github.com/ayazzy/forge)** | An 8-stage AI production pipeline that turns a YouTube episode idea into a ready-to-edit package (research → script → voiceover → sound → images → assembly → thumbnail → metadata). Multi-provider LLM, TTS and image orchestration with model tiering, prompt caching, auth, usage metering and Stripe subscriptions. | React, Node/Express, Supabase, Stripe, Claude, Cartesia |
-| **Horizon** | A place-based climate risk tool that projects how a specific address changes over 30 years, built on downscaled NASA NEX-GDDP-CMIP6 / IPCC AR6 data. | Next.js, Supabase, Python, Leaflet |
+| **Terrene** | A computational model of land for site screening in England. It ingests public geospatial evidence (EA 1m LiDAR terrain, OS Open Rivers, ESA WorldCover, Sentinel-2, priority habitats), runs deterministic wetland-restoration reasoning per parcel, and reports every finding with its evidence and missing inputs instead of guessing. | TypeScript, React, MapLibre, Python, FastAPI, PostGIS |
 | **[Catan Leaders](https://apps.apple.com/ca/app/catan-leaders/id6766052158)** | A multi-tenant iOS app for friend-group leaderboards with TrueSkill ratings and game-pattern analysis. Live on the App Store; the same engine powers Padel Puntos. | Swift, SwiftUI, Supabase |
 | **[PatchCore defect detection](https://github.com/ayazzy/matta-demo)** | Visual anomaly detection that learns only from defect-free parts and outputs heatmaps of where a part deviates. | Python, PyTorch, anomalib, Gradio |
 
@@ -20,7 +20,7 @@ I'm an operations lead who builds the software I need. I turn messy operational 
 
 #### Toolbox
 
-`TypeScript` `Python` `Swift` `SQL` `Next.js` `React` `Node` `Supabase` `Postgres` `n8n` `ESP32` `PyTorch` `Claude Code` `Cursor`
+`TypeScript` `Python` `Swift` `SQL` `FastAPI` `PostGIS` `Next.js` `React` `Node` `Supabase` `Postgres` `n8n` `ESP32` `PyTorch` `Claude Code` `Cursor`
 
 ---
 
