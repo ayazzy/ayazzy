@@ -1,6 +1,7 @@
-### Hi, I'm Ayaz 👋
+### Hi, I'm Ayaz 
 
-I'm an operations lead who builds the software I need. I turn messy operational problems into tools, ship them end to end, and keep them running. London-based, previously Toronto and Montréal.I'm interested in the physical economy: food, agriculture, climate and manufacturing.
+I turn messy operational problems into tools, ship them end to end, and keep them running. London-based, previously Toronto and Montréal.
+I'm interested in the physical economy: food, agriculture, climate and manufacturing.
 
 ---
 
