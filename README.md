@@ -24,4 +24,4 @@ I'm an operations lead who builds the software I need. I turn messy operational 
 
 ---
 
-[ayazv.co](https://ayazv.co) · [LinkedIn](https://linkedin.com/in/ayazvural) · ayazzvural@gmail.com
+[LinkedIn](https://linkedin.com/in/ayazvural) · ayazzvural@gmail.com
